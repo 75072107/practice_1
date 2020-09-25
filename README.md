@@ -3,5 +3,5 @@
 
 ## subheader from VSCode
 
-##New branch feature
+## New branch feature
 1. Open index
